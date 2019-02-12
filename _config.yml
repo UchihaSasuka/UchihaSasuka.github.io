@@ -12,12 +12,13 @@ email: 1686254592@qq.com
 location: 重庆
 company: 福建网龙计算机有限公司
 company_url: my_company_website
-github_url: https://github.com/UchihaSasuka
+github-url: https://github.com/UchihaSasuka
 github_username: UchihaSasuka
 description: description_of_your_web_site
 favicon: favicon.png # Image must be in assets/images
 repository: UchihaSasuka/UchihaSasuka.github.io
 logo: assets/img/logo.png
+background: assets/img/placeholder-big.jpg
 # The base hostname & protocol for your site
 # For local test, please use http://localhost:4000
 # For production, use your github page url. ex. http://dongchuan.github.io
